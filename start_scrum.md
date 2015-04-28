@@ -40,7 +40,7 @@ The canon sizing method is with planning poker cards. However, there is no stric
 
 ###Methods
 
-####Hand Fingers
+####Five Fingers
 ```1, 2, 3, 4, 5 ```
 
 
@@ -83,7 +83,7 @@ Before the start of each sprint the scrum team together with the product owner a
 This is the actual development process. Where the product is done, tested and sent for acceptance. The key in doing sprints is to set a consistent, predictable and sustainable pace for your development. We dont want to burnout our team by having to many 
 
 ###Daily Scrum
-In the duration of the sprint, everyday the entire team meets for 15-minutes. DUring that 15-minute meeting each and everyone answers three questions. Those questions are:
+In the duration of the sprint, everyday the entire team meets for 15-minutes. During the 15-minute meeting each and everyone answers three questions. Those questions are:
 
 1. What did I do yesterday?
 2. What will I do today?
@@ -96,10 +96,10 @@ At the end of the sprint we will reveiew the deliverable, this is best done in d
 
 In this meeting, stakeholders(management, users, etc) can be invited but they only watch. If they have comments and/or feedback it is best coursed through the Product Owner so he/she can consolidate them and present them to the team in a structured form. 
 
-The goal of the Sprint Review Meeting is to provide a first hand insight on what was accomplished and also learn the perspective of the time on how they see the product taking shape.
+The goal of the Sprint Review Meeting is to provide a first hand insight on what was accomplished and also learn the perspective of the time on how they see the product taking shape. This can also be consider a Release meeting where all of those involved in the project are present to see each iteration of the product/project.
 
 ###Sprint Retrospective Meeting
-While the Sprint Review Meeting focuses on the ***what***(deliverable) the Sprint Retrospective Meeting focuses on the ***how***(process). The goal of this meeting is to improve productivity of the team and making them work together more seamlessly.
+While the Sprint Review Meeting focuses on the ***what***(deliverable) the Sprint Retrospective Meeting focuses on the ***how***(process). The goal of this meeting is to improve productivity of the team and making them work together more seamlessly. 
 
 During the retrospect meeting each member of the team would answer these questions:
 
@@ -107,7 +107,7 @@ During the retrospect meeting each member of the team would answer these questio
 2. What does not work?
 3. What we should start doing?
 
-How to improve estimates and maximing work during sprints should also be tackled in this meeting
+How to improve estimates and maximing work during sprints should also be tackled in this meeting.
 
 ##References
 - Deemer, P., Benefield, G., Larman, C., Vodde, B., (2012) THE SCRUM PRIMER: A Lightweight Guide to the Theory and Practice of Scrum Version 2.0.
