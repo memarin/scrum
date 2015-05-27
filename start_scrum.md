@@ -87,7 +87,6 @@ This is the actual development process. Where the product is done, tested and se
 
 No changes to the sprint backlog maybe done once the sprint has started. If there is a great need to change the sprint backlog you may abort the current sprint and start a new one with the appropriate changes.
 
-
 ###Daily Scrum
 In the duration of the sprint, everyday the entire team meets for 15-minutes. During the 15-minute meeting each and everyone answers three questions. Those questions are:
 
