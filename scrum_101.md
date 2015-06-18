@@ -1,4 +1,4 @@
-#Getting Started with Scrum 1.0
+#Scrum 101
 
 ##Table of Contents
 * Introduction
@@ -31,17 +31,16 @@ As a user, I want to be able to register into the site using my email address
 Each user story is accompanied with a size(estimate) indicating the effort required to accomplish it.
 
 ##Sizing and Estimation
-User stories need have a indicator with them to determine(guess) the effort required to accomplish them. Estimates need not to be accurate, just consistent all throughout the project.
+User stories need have a indicator with them to determine(guess) the effort required to accomplish them. Sizes reflect the relative effort and complexity for that story. Estimates need not to be accurate, just consistent all throughout the project. 
 
-You can just write stories and provide the later this helps us in avoiding arbitrarily sizing stories that we dont understand quite well yet.
+You can just write stories and provide the size later this helps us in avoiding arbitrarily sizing stories that we dont understand quite well yet.
 
 The canon sizing method is with planning poker cards. However, there is no strict rule prohibiting you from adopting a different sizing method. Often times, teams devise their own sizing strategy what is important is you have a great knowledge and understading of Scrum to effectively modify it without losing its core principles.
 
 ###Methods
 
-####Five Fingers
+####Fist of Five
 ```1, 2, 3, 4, 5 ```
-
 
 ####Powers of 2
 ```1, 2, 4, 8, 16 ```
@@ -51,6 +50,15 @@ The canon sizing method is with planning poker cards. However, there is no stric
 
 ####Shirt Sizes
 ```S, M, L, XL```
+
+The goal of estimation is to facilitate a conversation regarding the user stories. Individual team members may have different perspectives and your goal is to get as much as context regarding the story. 
+
+**Important!**
+
+* Avoid getting fixated in a story size. What is more important is gettin to know the different perspective of other team members.
+
+###Setting a Reference Point
+Before doing any estimation it is important to set a reference point to establish consistency  
 
 ##Artifacts
 
